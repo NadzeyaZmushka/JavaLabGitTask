@@ -4,7 +4,7 @@
 4 another update (git_1)
 5 update from folder2
 6 update from folder2
-7
-8
+7 folder1
+8 folder1
 9
 10
